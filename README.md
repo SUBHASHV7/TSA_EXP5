@@ -1,7 +1,8 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 #### Date: 20.11.2026
-#### Reg.No.: 212224240163
 #### Name: Subhash V
+#### Reg.No.: 212224240163
+
 
 ### AIM:
 To illustrate how to perform time series analysis and decomposition on the monthly average temperature of India (10 major cities) using the Indian Climate Dataset for 2024–2025.
