@@ -1,9 +1,10 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 ### Date: 20.11.2026
-
+### Reg.No.: 212224240163
+### Name: Subhash V
 
 ### AIM:
-To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
+To illustrate how to perform time series analysis and decomposition on the monthly average temperature of India (10 major cities) using the Indian Climate Dataset for 2024–2025.
 
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
@@ -12,6 +13,8 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 4. Plot the data according to need, either seasonal_decomposition or trend plot.
 5. Display the overall results.
 
+### DATASET:
+Indian_Climate_Dataset_2024_2025.csv
 ### PROGRAM:
 
 ```py
